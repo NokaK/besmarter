@@ -1,0 +1,14 @@
+
+
+.potoabout {
+	border-radius: 10px;
+
+	align-items: center;
+}
+.potoabout:hover {
+	opacity: 0.5;
+}
+.textofwrapper{
+	white-space: nowrap;
+	margin-bottom: 20px;
+}
