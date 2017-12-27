@@ -12,3 +12,9 @@
 	white-space: nowrap;
 	margin-bottom: 20px;
 }
+.footertext {
+	color: #fff;
+	padding: 15px 0;
+	font-size:15px;
+	font-weight: 500; 
+}
